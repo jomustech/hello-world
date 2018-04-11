@@ -1,4 +1,4 @@
 # hello-world
-My very first repository at GitHub.
+Hello GitHub world.
 I am Jo and I love Technology.
 Added two new lines.
